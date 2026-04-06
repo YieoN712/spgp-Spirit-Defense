@@ -1,7 +1,7 @@
 # spgp-Spirit-Defense
 
 ## 발표 영상 자료 링크
-  1차 발표 : 
+  1차 발표 : https://youtu.be/842rlU-oXrw
 
 ## 게임 컨셉
 ### High Concept
